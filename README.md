@@ -2,7 +2,7 @@
 <h3 align="center">I'm a web developer and I love collaborating and problem solving.</h3>
 
 <p align="center">
-![WebDevWebsiteDevelopmentGIF](https://user-images.githubusercontent.com/95446760/222521678-264b97ef-03aa-48f8-a83e-2a3a3177a444.gif)
+https://user-images.githubusercontent.com/95446760/222521678-264b97ef-03aa-48f8-a83e-2a3a3177a444.gif
 </p>
 
 👩‍💻 I'm currently studying Web Development at **Juno College**.
