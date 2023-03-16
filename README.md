@@ -5,7 +5,7 @@
   <img src="https://user-images.githubusercontent.com/95446760/222521678-264b97ef-03aa-48f8-a83e-2a3a3177a444.gif">
 </p>
 
-👩‍💻 I'm best known for using my natural curiosity and attention to detail to help build and improve responsive and accessible websites and applications. When I'm not coding I like to bake bread, grow microgreens and explore Canada's northern wilderness with friends.
+👩‍💻 I'm best known for using my natural curiosity and attention to detail to help build and improve responsive and accessible applications. When I'm not coding I like to bake bread, grow microgreens and explore Canada's northern wilderness with friends.
 
 📫 Feel free to reach out ☞ **vincentyoung.dev@gmail.com**
 
